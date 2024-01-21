@@ -1,6 +1,6 @@
 # mycontacts-Backend
 
-/*
+
 # Contact Management API Documentation
 
 ## User Registration
@@ -136,4 +136,3 @@
 
 // For any questions or issues, contact me at mehrotrasanat2006@gmail.com.
 
-*/
